@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0154/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴道場起止大略
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1474.xml
+    old_id: X74n1474
+hash: sha256:24ef548c5c466e6ec4172f9e4baaa81315dd454cc56045478b154297a7306a2c

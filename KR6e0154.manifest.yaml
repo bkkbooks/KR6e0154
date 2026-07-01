@@ -1,0 +1,79 @@
+canonical_identifier: bkk:krp/KR6e0154/v1
+canonical_location: https://kanripo.org/bkk/KR6e0154/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴道場起止大略
+  identifiers:
+    alt_id:
+    - X74n1474
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1474.xml
+    old_id: X74n1474
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0154_000.yaml, hash: 'sha256:24ef548c5c466e6ec4172f9e4baaa81315dd454cc56045478b154297a7306a2c'}
+  - {seq: 1, filename: KR6e0154_001.yaml, hash: 'sha256:bf965f7ee4934ee5655dad1665792e9641664a5abf6ab9428177b2cff9b589a7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0154_001.markers.yaml, hash: 'sha256:0647f013db9fd60899046ff91cda680186f712255cdb88ce5752f77edc2bab98'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0154_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 797
+  label: 華嚴道場起止大略
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0154_X_001-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 香讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0154_X_001-mulu-2
+    span:
+    - body
+    - 209
+    - 209
+  label: 開經偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0154_X_001-mulu-3
+    span:
+    - body
+    - 286
+    - 286
+  label: 總回向文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0154_X_001-mulu-4
+    span:
+    - body
+    - 410
+    - 410
+  label: 隨州大洪山遂禪師禮華嚴經文
+  type: mulu
+  level: 1
+hash: sha256:b2cc1568c322e4e1bb5b460d638643f7150988caa7a38358e08aac93ba4f73d5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: X
