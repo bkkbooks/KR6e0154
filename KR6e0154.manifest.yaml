@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6e0154_000.yaml, hash: 'sha256:24ef548c5c466e6ec4172f9e4baaa81315dd454cc56045478b154297a7306a2c'}
-  - {seq: 1, filename: KR6e0154_001.yaml, hash: 'sha256:bf965f7ee4934ee5655dad1665792e9641664a5abf6ab9428177b2cff9b589a7'}
+  - {seq: 1, filename: KR6e0154_001.yaml, hash: 'sha256:230066e5c45536ddc829c9c38a1b86e0b57cbcf18dbbd6f3517f54817355e3ec'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0154_001.markers.yaml, hash: 'sha256:0647f013db9fd60899046ff91cda680186f712255cdb88ce5752f77edc2bab98'}
+  - {seq: 0, role: markers, filename: assets/KR6e0154_000.markers.yaml, hash: 'sha256:4686c046f11442f16a4cdc670c295b440d9fb415b83b6f02ae52d89f3ed83323'}
+  - {seq: 1, role: markers, filename: assets/KR6e0154_001.markers.yaml, hash: 'sha256:a2f4f0314ee1940aa1edef6ae019edbec87edcc6cb1444e8bc1c55ca13342fcc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -71,9 +72,6 @@ table_of_contents:
   label: 隨州大洪山遂禪師禮華嚴經文
   type: mulu
   level: 1
-hash: sha256:b2cc1568c322e4e1bb5b460d638643f7150988caa7a38358e08aac93ba4f73d5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:356f7079bb7d52046c5e16333ff3bf16f39776e4c41e3072561c4bcee8350ea2
 editions:
 - short: X
